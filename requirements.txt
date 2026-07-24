@@ -3,3 +3,8 @@ pandas
 anthropic
 python-dotenv
 yfinance
+nest_asyncio
+ib_insync
+dhanhq
+kiteconnect
+growwapi
